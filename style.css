@@ -1,0 +1,180 @@
+body{
+  margin: 0;
+}
+.first-cont{
+  padding: 100px;
+  text-align: center;
+  position: relative;
+  background-color: #EAF6F6;
+  margin: 0;
+}
+.my-title{
+  margin: 50px auto 0 auto;
+  font-size: 70px;
+    font-family: 'Dancing Script', cursive;
+    color: CHOCOLATE;
+    line-height: 2;
+}
+.dis{
+  margin: 0;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    color: MAROON;
+}
+.sun{
+position: relative;
+left:400px;
+height:250px;
+width:250px;
+}
+.top-cloud{
+  width: 200px;
+  position: relative;
+  left: 200px;
+}
+.bottom-cloud{
+  width:200px;
+  position: relative;
+  bottom:600px;
+  right: 290px;
+  top:-40px;
+}
+.mountain{
+  height: 400px;
+  width:1000px;
+  position: relative;
+}
+.second-cont{
+  padding:60px;
+  text-align: center;
+  background-color:	LAVENDER;
+}
+.profile{
+  height:200px;
+  width: 200px;
+  position: relative;
+  top:30px;
+}
+.about{
+  font-size: 25px;
+  margin: auto;
+  font-family: 'Grenze Gotisch', cursive;
+  width: 50%;
+}
+.hello{
+  font-family: 'Lemonada', cursive;
+  color: MEDIUMSLATEBLUE;
+}
+.third-cont{
+  padding:60px;
+  text-align: center;
+  background-color:	LAVENDER;
+}
+.hobbies{
+  font-family: 'Lemonada', cursive;
+   color: SADDLEBROWN;
+}
+.sub-t1{
+  text-align: center;
+  position: relative;
+}
+.sub-t2{
+  text-align: center;
+  position: relative;}
+  .sub-t3{
+    text-align: center;
+    position: relative;
+  margin-left:300px;}
+.tux{
+  position: relative;
+  height: 100px;
+  width: 100px;
+  right:150px;
+}
+.skill1{
+  font-family: 'Comic Neue', cursive;
+  font-size: 25px;
+  float: right;
+  height:100px;
+  width:400px;
+  margin-right:400px;
+}
+.anime{
+  position: relative;
+  height: 100px;
+  width: 100px;
+  left: 270px;
+  right:250px;
+}
+.skill2{
+  font-family: 'Comic Neue', cursive;
+  font-size: 25px;
+  float: left;
+  left: 430px;
+  position: relative;
+  margin: auto;
+  height:100px;
+  width:400px;
+}
+.mar{
+  position: relative;
+  height: 100px;
+  width: 100px;
+  right: 300px;
+}
+.marvel{
+  font-family: 'Comic Neue', cursive;
+  font-size: 25px;
+  float: right;
+  position: relative;
+  right: 230px;
+}
+.first{
+  border: 10px;
+  border-style: dotted none none none;
+  width: 25%;
+  border-color:	TOMATO;
+}
+.sh{
+  font-family: 'Lemonada', cursive;
+  color: #66BFBF;
+  font-weight: lighter;
+  text-align: center;
+}
+.usite{
+  font-family: 'Bebas Neue', cursive;
+  float: right;
+  font-weight: lighter;
+}
+.buffering{
+  height:250px;
+  width:250px;
+  float: right;
+  margin: 0;
+  position: relative;
+}
+.fourth-cont{
+  height: 60%;
+  width: 100%;
+  text-align:center;
+  background-color: DARKOLIVEGREEN;
+}
+.twit{
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+}
+.face{
+  height: 30px;
+  width:30px;
+  margin: 20px;
+}
+.insta{
+  height: 30px;
+  width: 30px;
+  margin: 20px;
+}
+.contact{
+  margin:0;
+  font-family: 'Shadows Into Light', cursive;
+}
